@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#hero{
+    background-image: url(img/hero.jpg);
+    background-position: top center;
+    background-size: cover;
+}
+#line{
+    width: 60px;
+    height: 4px;
+}
+#about-img{
+    background-image: url(img/about-img.jpg);
+    background-position: center;
+    background-size: cover;
+}
+#stats{
+    background-image: url(img/mountains.jpg);
+    background-position: center;
+    background-size: cover;
+}
+#contact{
+    background-image: url(img/callcentre.jpg);
+    background-position: center;
+    background-size: cover;
+}
